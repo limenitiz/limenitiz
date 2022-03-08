@@ -8,7 +8,7 @@
     - servlet
     - spring (REST service)
         * boot
-        * sata
+        * data
         * security
     - Hibernate 
     - Junit
