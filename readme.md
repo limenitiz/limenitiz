@@ -2,8 +2,6 @@
 <!-- https://www.vectorlogo.zone/ -->
 <!-- https://www.svgrepo.com/ -->
 
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-<br>
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
