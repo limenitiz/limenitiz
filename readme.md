@@ -2,50 +2,27 @@
 <!-- https://www.vectorlogo.zone/ -->
 <!-- https://www.svgrepo.com/ -->
 
-
-🔗 &nbsp;**Connect with me**
-<p align="left">
-    <div style="
-        background: lightgrey;
-        border-radius: 20px;
-        padding: 10px;
-        width: 200px">
-        <a href="ini.ivi@yandex.ru" target="blank"><img align="center"
-                src="https://www.svgrepo.com/show/223047/gmail.svg"
-                height="40"/>
-        </a>
-        &nbsp;
-        ini.ivi@yandex.ru
-    </div>
-    <br>
-    <div style="
-        background: lightgrey;
-        border-radius: 20px;
-        padding: 10px;
-        width: 200px">
-        <a href="https://t.me/limenitiz" target="blank"><img align="center"
-                src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"
-                height="40"/>
-        </a>
-        &nbsp;
-        https://t.me/limenitiz
-    </div>
+&nbsp; 🔗 &nbsp;**Connect with me**
+&nbsp; <p align="left">
+        &nbsp;&nbsp;
+        <span>
+            <img align="center"
+                src="https://user-images.githubusercontent.com/60324635/179626886-1219e9ee-75c0-42ed-a26b-d4ef24ed306c.svg"
+                height="30px"/>
+            ini.ivi@yandex.ru
+        </span>
+        &nbsp;&nbsp;&nbsp;
+        <span>
+            <img align="center"
+                    src="https://user-images.githubusercontent.com/60324635/179626979-f490e684-520a-46a3-9f2e-1b3d291b8372.svg"
+                    height="30px"/>
+            https://t.me/limenitiz
+        </span>
 </p>
+
+![Metrics](/github-metrics.svg)
 <br>
 
-💻 &nbsp;**My coding practice**
-<p align="left">
-    <a href="https://www.leetcode.com/limenitiz" target="blank"><img align="center"
-            src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg"
-            height="40"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.hackerrank.com/limenitiz" target="blank"><img align="center"
-            src="https://d1ka33fs6lvw5x.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg"
-            height="40"/>
-    </a>
-</p>
-<br>
 
 🛠️ &nbsp;**Languages and Tools**
 <p align="left">
@@ -91,9 +68,16 @@
 </p>
 <br>
 
-<!-- 📊 &nbsp;**My 7-day coding activity** -->
-
-<!-- ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=limenitiz&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
-
-![Metrics](/github-metrics.svg)
-
+💻 &nbsp;**My coding practice**
+<p align="left">
+    <a href="https://www.leetcode.com/limenitiz" target="blank"><img align="center"
+            src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg"
+            height="40"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.hackerrank.com/limenitiz" target="blank"><img align="center"
+            src="https://d1ka33fs6lvw5x.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg"
+            height="40"/>
+    </a>
+</p>
+<br>
