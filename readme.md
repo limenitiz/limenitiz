@@ -93,4 +93,6 @@
 
 📊 &nbsp;**My 7-day coding activity**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=limenitiz&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<!-- ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=limenitiz&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
+
+![Metrics](https://metrics.lecoq.io/?template=classic&languages=1&habits=1&wakatime=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=limenitiz&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.days=7&wakatime.limit=5&wakatime.languages.other=false&wakatime.repositories.visibility=all&config.timezone=Europe%2FMoscow)
