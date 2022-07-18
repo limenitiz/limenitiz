@@ -94,9 +94,3 @@
 📊 &nbsp;**My 7-day coding activity**
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=limenitiz&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-
-
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=limenitiz&label=Profile%20views&color=0e75b6&style=flat"
-        alt="limenitiz" />
-</p>
