@@ -87,7 +87,7 @@
 <br>
 
 
-💻 &nbsp;**My coding practice**
+💻 &nbsp;**My coding stats**
 
 <!--START_SECTION:waka-->
 
