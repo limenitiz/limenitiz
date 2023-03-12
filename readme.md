@@ -83,4 +83,14 @@
             height="40"/>
     </a>
 </p>
+
 <br>
+
+
+💻 &nbsp;**My coding practice**
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+
