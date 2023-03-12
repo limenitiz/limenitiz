@@ -89,18 +89,9 @@
 
 💻 &nbsp;**My coding stats**
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka-readme-stats-total-->
+<!--END_SECTION:waka-readme-stats-total-->
 
-```text
-From: 06 November 2020 - To: 11 March 2023
-
-Total Time: 775 hrs 24 mins
-
-C++                   287 hrs 37 mins ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░   37.09 %
-Java                  251 hrs 25 mins ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░   32.43 %
-Other                 43 hrs 5 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
-```
-
-<!--END_SECTION:waka-->
-
+<!--START_SECTION:waka-readme-total-->
+<!--END_SECTION:waka-readme-total-->
 
