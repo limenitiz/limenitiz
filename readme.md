@@ -148,6 +148,17 @@ Windows                  0 secs              ░░░░░░░░░░░�
 <!--END_SECTION:waka-readme-stats-total-->
 
 <!--START_SECTION:wakaReadmeTotal-->
+
+```text
+From: 06 November 2020 - To: 11 March 2023
+
+Total Time: 775 hrs 24 mins
+
+C++                   287 hrs 37 mins ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░   37.09 %
+Java                  251 hrs 25 mins ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░   32.43 %
+Other                 43 hrs 5 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+```
+
 <!--END_SECTION:wakaReadmeTotal-->
 
 <!--START_SECTION:wakaReadmeYear-->
