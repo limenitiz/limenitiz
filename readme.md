@@ -147,15 +147,15 @@ Windows                  0 secs              ░░░░░░░░░░░�
  Last Updated on 12/03/2023 20:43:23 UTC
 <!--END_SECTION:waka-readme-stats-total-->
 
-<!--START_SECTION:waka-readme-total-->
-<!--END_SECTION:waka-readme-total-->
+<!--START_SECTION:wakaReadmeTotal-->
+<!--END_SECTION:wakaReadmeTotal-->
 
-<!--START_SECTION:waka-readme-year-->
-<!--END_SECTION:waka-readme-year-->
+<!--START_SECTION:wakaReadmeYear-->
+<!--END_SECTION:wakaReadmeYear-->
 
-<!--START_SECTION:waka-readme-month-->
-<!--END_SECTION:waka-readme-month-->
+<!--START_SECTION:wakaReadmeMonth-->
+<!--END_SECTION:wakaReadmeMonth-->
 
-<!--START_SECTION:waka-readme-week-->
-<!--END_SECTION:waka-readme-week-->
+<!--START_SECTION:wakaReadmeWeek-->
+<!--END_SECTION:wakaReadmeWeek-->
 
