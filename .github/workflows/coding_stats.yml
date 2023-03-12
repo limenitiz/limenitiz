@@ -30,7 +30,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          SECTION_NAME: "waka-readme-total"
+          SECTION_NAME: "wakaReadmeTotal"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           SHOW_TIME: true
@@ -46,7 +46,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          SECTION_NAME: "waka-readme-year"
+          SECTION_NAME: "wakaReadmeYear"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           SHOW_TIME: true
@@ -61,7 +61,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          SECTION_NAME: "waka-readme-month"
+          SECTION_NAME: "wakaReadmeMonth"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           SHOW_TIME: true
@@ -76,7 +76,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          SECTION_NAME: "waka-readme-week"
+          SECTION_NAME: "wakaReadmeWeek"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           SHOW_TIME: true
