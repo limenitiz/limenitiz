@@ -98,8 +98,8 @@
 <!--START_SECTION:waka-readme-year-->
 <!--END_SECTION:waka-readme-year-->
 
-<!--START_SECTION:waka-readme-mounth-->
-<!--END_SECTION:waka-readme-mounth-->
+<!--START_SECTION:waka-readme-month-->
+<!--END_SECTION:waka-readme-month-->
 
 <!--START_SECTION:waka-readme-week-->
 <!--END_SECTION:waka-readme-week-->
