@@ -20,9 +20,8 @@ jobs:
           SHOW_PROFILE_VIEWS: False
           SHOW_COMMIT: True
           SHOW_DAYS_OF_WEEK: True
+          SHOW_LANGUAGE_PER_REPO: False
 
-          SHOW_PROJECTS: True
-          IGNORED_REPOS: "7-th-semester, 8-th-semester, SUAI_5sem, SUAI_6sem, SUAI_7sem"
 
   waka-readme-update:
     name: Update Readme with waka-readme
