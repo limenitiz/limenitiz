@@ -180,16 +180,16 @@ Text                  11 hrs 29 mins  ▓░░░░░░░░░░░░░
 <!--START_SECTION:wakaReadmeMonth-->
 
 ```text
-From: 24 February 2023 - To: 26 March 2023
+From: 03 March 2023 - To: 02 April 2023
 
-Total Time: 37 hrs 12 mins
+Total Time: 59 hrs 51 mins
 
-Java                26 hrs 26 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░   71.05 %
-XML                 6 hrs 35 mins   ▓▓▓▓░░░░░░░░░░░░░░░░░░░░░   17.72 %
-YAML                1 hr 48 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
-SQL                 1 hr 25 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
-GitIgnore file      20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Text                13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Java                  45 hrs 29 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░   75.98 %
+XML                   8 hrs 4 mins    ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   13.49 %
+YAML                  2 hrs 6 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+SQL                   2 hrs 5 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+HTTP Request          1 hr 9 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+GitIgnore file        28 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:wakaReadmeMonth-->
