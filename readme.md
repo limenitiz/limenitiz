@@ -193,11 +193,15 @@ GitIgnore file        18 mins         ░░░░░░░░░░░░░░
 <!--START_SECTION:wakaReadmeWeek-->
 
 ```text
-From: 02 April 2023 - To: 09 April 2023
+From: 09 April 2023 - To: 16 April 2023
 
-Total Time: 0 secs
+Total Time: 6 hrs 1 min
 
-No activity tracked
+Java           4 hrs 27 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░   74.12 %
+HTTP Request   53 mins         ▓▓▓▓░░░░░░░░░░░░░░░░░░░░░   14.71 %
+XML            26 mins         ▓▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+YAML           10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+SQL            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:wakaReadmeWeek-->
