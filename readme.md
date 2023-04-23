@@ -162,16 +162,16 @@ Other                 43 hrs 5 mins   ▓░░░░░░░░░░░░░
 <!--START_SECTION:wakaReadmeYear-->
 
 ```text
-From: 16 April 2022 - To: 16 April 2023
+From: 22 April 2022 - To: 22 April 2023
 
-Total Time: 508 hrs 34 mins
+Total Time: 527 hrs 33 mins
 
-Java                  289 hrs 11 mins ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░   56.86 %
-C++                   54 hrs 37 mins  ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
-HTML                  39 hrs 10 mins  ▓▓░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
-XML                   17 hrs 28 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-SQL                   16 hrs 15 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-Text                  11 hrs 29 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+Java                  296 hrs 13 mins ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░   56.15 %
+C++                   53 hrs 12 mins  ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
+HTML                  44 hrs 46 mins  ▓▓░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+XML                   18 hrs 28 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+SQL                   16 hrs 14 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+CSS                   11 hrs 34 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
 ```
 
 <!--END_SECTION:wakaReadmeYear-->
