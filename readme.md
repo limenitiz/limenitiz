@@ -196,15 +196,16 @@ YAML                  1 hr 2 mins     ░░░░░░░░░░░░░░
 <!--START_SECTION:wakaReadmeWeek-->
 
 ```text
-From: 09 April 2023 - To: 16 April 2023
+From: 16 April 2023 - To: 23 April 2023
 
-Total Time: 6 hrs 1 min
+Total Time: 25 hrs 24 mins
 
-Java           4 hrs 27 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░   74.12 %
-HTTP Request   53 mins         ▓▓▓▓░░░░░░░░░░░░░░░░░░░░░   14.71 %
-XML            26 mins         ▓▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
-YAML           10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-SQL            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Java             8 hrs 29 mins   ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░   33.41 %
+HTML             6 hrs 15 mins   ▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░   24.60 %
+XML              3 hrs 12 mins   ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   12.62 %
+HTTP Request     2 hrs 32 mins   ▓▓░░░░░░░░░░░░░░░░░░░░░░░   09.99 %
+JavaScript       1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+JSON             58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
 ```
 
 <!--END_SECTION:wakaReadmeWeek-->
