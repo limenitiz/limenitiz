@@ -193,16 +193,15 @@ JavaScript            1 hr 10 mins    ▓░░░░░░░░░░░░░
 <!--START_SECTION:wakaReadmeWeek-->
 
 ```text
-From: 23 April 2023 - To: 30 April 2023
+From: 30 April 2023 - To: 07 May 2023
 
-Total Time: 4 hrs 58 mins
+Total Time: 14 hrs 13 mins
 
-HTML                  4 hrs 27 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░   89.54 %
-Java                  21 mins         ▓▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
-HTTP Request          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-GitIgnore file        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-JSON                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Cookie storage file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Java         13 hrs 50 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░   97.33 %
+XML          11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Text         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+HTML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:wakaReadmeWeek-->
