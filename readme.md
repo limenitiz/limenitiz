@@ -172,7 +172,7 @@ SQL                   16 hrs 14 mins  ▓░░░░░░░░░░░░░
 <!--START_SECTION:wakaReadmeMonth-->
 
 ```text
-From: 07 April 2023 - To: 07 May 2023
+From: 14 April 2023 - To: 14 May 2023
 
 Total Time: 50 hrs 38 mins
 
