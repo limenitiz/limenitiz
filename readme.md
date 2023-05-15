@@ -117,21 +117,16 @@ Sunday                   36 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     13 hrs 50 mins      ████████████████████████░   97.33 % 
-XML                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 14 hrs 13 mins      █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-RZD-practice             14 hrs 11 mins      █████████████████████████   99.79 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    14 hrs 13 mins      █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -139,7 +134,7 @@ Linux                    14 hrs 13 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/limenitiz/limenitiz/master/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2023 00:39:13 UTC
+ Last Updated on 15/05/2023 00:40:58 UTC
 <!--END_SECTION:waka-readme-stats-total-->
 
 <!--START_SECTION:wakaReadmeTotal-->
