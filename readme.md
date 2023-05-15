@@ -140,7 +140,7 @@ No Activity Tracked This Week
 <!--START_SECTION:wakaReadmeTotal-->
 
 ```text
-From: 06 November 2020 - To: 07 May 2023
+From: 06 November 2020 - To: 14 May 2023
 
 Total Time: 881 hrs 18 mins
 
