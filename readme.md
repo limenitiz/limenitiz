@@ -177,15 +177,15 @@ SQL                   16 hrs 19 mins  ▓░░░░░░░░░░░░░
 <!--START_SECTION:wakaReadmeMonth-->
 
 ```text
-From: 14 April 2023 - To: 14 May 2023
+From: 21 April 2023 - To: 21 May 2023
 
-Total Time: 50 hrs 38 mins
+Total Time: 48 hrs 55 mins
 
-Java                  27 hrs 9 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░   53.63 %
-HTML                  10 hrs 44 mins  ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░   21.21 %
-XML                   3 hrs 49 mins   ▓▓░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
-HTTP Request          3 hrs 30 mins   ▓▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-JavaScript            1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Java                  25 hrs 29 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░   52.12 %
+HTML                  16 hrs 23 mins  ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░   33.51 %
+XML                   2 hrs 29 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+HTTP Request          2 hrs 11 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+PHP                   1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
 ```
 
 <!--END_SECTION:wakaReadmeMonth-->
