@@ -193,11 +193,15 @@ PHP                   1 hr 15 mins    ▓░░░░░░░░░░░░░
 <!--START_SECTION:wakaReadmeWeek-->
 
 ```text
-From: 07 May 2023 - To: 14 May 2023
+From: 14 May 2023 - To: 21 May 2023
 
-Total Time: 0 secs
+Total Time: 20 hrs 12 mins
 
-No activity tracked
+HTML           10 hrs 8 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░   50.22 %
+Java           8 hrs 19 mins   ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░   41.18 %
+PHP            1 hr 15 mins    ▓▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+YAML           8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+HTTP Request   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:wakaReadmeWeek-->
