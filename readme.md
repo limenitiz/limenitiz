@@ -156,15 +156,15 @@ C                     27 hrs 58 mins  ▓░░░░░░░░░░░░░
 <!--START_SECTION:wakaReadmeYear-->
 
 ```txt
-From: 11 June 2022 - To: 11 June 2023
+From: 18 June 2022 - To: 18 June 2023
 
-Total Time: 484 hrs 18 mins
+Total Time: 472 hrs 39 mins
 
-Java                  328 hrs 43 mins ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░   67.88 %
-HTML                  56 hrs 43 mins  ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   11.71 %
-XML                   20 hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
-SQL                   16 hrs 6 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-YAML                  10 hrs 7 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Java                  322 hrs 35 mins ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░   68.25 %
+HTML                  53 hrs 1 min    ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
+XML                   19 hrs 38 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+SQL                   16 hrs 6 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Text                  9 hrs 55 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 ```
 
 <!--END_SECTION:wakaReadmeYear-->
