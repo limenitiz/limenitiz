@@ -172,15 +172,15 @@ Text                  9 hrs 49 mins   ▓░░░░░░░░░░░░░
 <!--START_SECTION:wakaReadmeMonth-->
 
 ```txt
-From: 26 May 2023 - To: 25 June 2023
+From: 02 June 2023 - To: 02 July 2023
 
-Total Time: 19 hrs 11 mins
+Total Time: 18 hrs 55 mins
 
-Java       16 hrs 51 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░   87.84 %
-Markdown   1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
-YAML       47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
-SQL        14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-XML        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Java       16 hrs 40 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░   88.11 %
+Markdown   1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+YAML       47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+SQL        14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Python     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:wakaReadmeMonth-->
