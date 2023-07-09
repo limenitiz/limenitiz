@@ -189,11 +189,11 @@ SQL        3 mins          ░░░░░░░░░░░░░░░░░�
 <!--START_SECTION:wakaReadmeWeek-->
 
 ```txt
-From: 25 June 2023 - To: 02 July 2023
+From: 01 July 2023 - To: 08 July 2023
 
-Total Time: 0 secs
+Total Time: 14 mins
 
-No activity tracked
+Java   14 mins         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   100.00 %
 ```
 
 <!--END_SECTION:wakaReadmeWeek-->
