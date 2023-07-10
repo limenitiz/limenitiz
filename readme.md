@@ -141,7 +141,7 @@ Linux                    14 mins             ███████████�
 <!--START_SECTION:wakaReadmeTotal-->
 
 ```txt
-From: 06 November 2020 - To: 08 July 2023
+From: 06 November 2020 - To: 09 July 2023
 
 Total Time: 928 hrs 31 mins
 
