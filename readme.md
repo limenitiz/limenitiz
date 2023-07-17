@@ -172,15 +172,11 @@ YAML                  8 hrs 25 mins   ░░░░░░░░░░░░░░
 <!--START_SECTION:wakaReadmeMonth-->
 
 ```txt
-From: 08 June 2023 - To: 08 July 2023
+From: 16 June 2023 - To: 16 July 2023
 
-Total Time: 3 hrs 40 mins
+Total Time: 14 mins
 
-Java       2 hrs 46 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░   75.38 %
-YAML       24 mins         ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
-Markdown   19 mins         ▓▓░░░░░░░░░░░░░░░░░░░░░░░   08.86 %
-Python     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-SQL        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Java   14 mins         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   100.00 %
 ```
 
 <!--END_SECTION:wakaReadmeMonth-->
