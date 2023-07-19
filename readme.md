@@ -2,7 +2,7 @@
 <!-- https://www.vectorlogo.zone/ -->
 <!-- https://www.svgrepo.com/ -->
 
-&nbsp; 🔗 &nbsp;**Connect with me**
+🔗 &nbsp;**Connect with me**
 &nbsp; <p align="left">
         &nbsp;&nbsp;
         <span>
@@ -69,25 +69,8 @@
             alt="kafka" width="40" height="40" />
     </a>
 </p>
-<br>
-
-💻 &nbsp;**My coding practice**
-<p align="left">
-    <a href="https://www.leetcode.com/limenitiz" target="blank"><img align="center"
-            src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg"
-            height="40"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.hackerrank.com/limenitiz" target="blank"><img align="center"
-            src="https://d1ka33fs6lvw5x.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg"
-            height="40"/>
-    </a>
-</p>
 
 <br>
-
-
-💻 &nbsp;**My coding stats**
 
 <!--START_SECTION:waka-readme-stats-total-->
 **I'm a Night 🦉** 
