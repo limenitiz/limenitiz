@@ -167,7 +167,7 @@ Java   14 mins         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 <!--START_SECTION:wakaReadmeWeek-->
 
 ```txt
-From: 09 July 2023 - To: 16 July 2023
+From: 16 July 2023 - To: 23 July 2023
 
 Total Time: 0 secs
 
