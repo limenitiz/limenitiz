@@ -167,7 +167,7 @@ No activity tracked
 <!--START_SECTION:wakaReadmeWeek-->
 
 ```txt
-From: 30 July 2023 - To: 06 August 2023
+From: 06 August 2023 - To: 13 August 2023
 
 Total Time: 0 secs
 
