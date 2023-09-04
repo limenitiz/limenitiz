@@ -167,7 +167,7 @@ Batchfile   0 secs          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓�
 <!--START_SECTION:wakaReadmeWeek-->
 
 ```txt
-From: 06 August 2023 - To: 13 August 2023
+From: 27 August 2023 - To: 03 September 2023
 
 Total Time: 0 secs
 
