@@ -155,11 +155,11 @@ YAML                  5 hrs 14 mins   ░░░░░░░░░░░░░░
 <!--START_SECTION:wakaReadmeMonth-->
 
 ```txt
-From: 14 July 2023 - To: 13 August 2023
+From: 04 August 2023 - To: 03 September 2023
 
 Total Time: 0 secs
 
-No activity tracked
+Batchfile   0 secs          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   100.00 %
 ```
 
 <!--END_SECTION:wakaReadmeMonth-->
