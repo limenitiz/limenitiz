@@ -155,7 +155,7 @@ Text                  5 hrs 39 mins   ░░░░░░░░░░░░░░
 <!--START_SECTION:wakaReadmeMonth-->
 
 ```txt
-From: 18 August 2023 - To: 17 September 2023
+From: 25 August 2023 - To: 24 September 2023
 
 Total Time: 12 hrs 1 min
 
