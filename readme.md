@@ -123,15 +123,15 @@ No Activity Tracked This Week
 <!--START_SECTION:wakaReadmeTotal-->
 
 ```txt
-From: 06 November 2020 - To: 15 September 2023
+From: 06 November 2020 - To: 23 September 2023
 
-Total Time: 937 hrs 56 mins
+Total Time: 940 hrs 33 mins
 
-Java                  347 hrs 2 mins  ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░   37.00 %
-C++                   287 hrs 37 mins ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░   30.67 %
-HTML                  66 hrs          ▓▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
-Other                 43 hrs 5 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-C                     27 hrs 58 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Java                  347 hrs 2 mins  ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░   36.90 %
+C++                   287 hrs 37 mins ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░   30.58 %
+HTML                  66 hrs          ▓▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+Other                 43 hrs 5 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+C                     27 hrs 58 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
 ```
 
 <!--END_SECTION:wakaReadmeTotal-->
