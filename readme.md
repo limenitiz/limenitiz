@@ -174,11 +174,13 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 <!--START_SECTION:wakaReadmeWeek-->
 
 ```txt
-From: 17 September 2023 - To: 24 September 2023
+From: 24 September 2023 - To: 01 October 2023
 
-Total Time: 0 secs
+Total Time: 58 mins
 
-No activity tracked
+Python     53 mins         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░   91.64 %
+Markdown   4 mins          ▓▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+Assembly   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:wakaReadmeWeek-->
