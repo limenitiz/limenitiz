@@ -100,16 +100,19 @@ Sunday                   33 commits          ██████████░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   53 mins             ███████████████████████░░   91.64 % 
+Markdown                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Assembly                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  58 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Hogwarts-1st-semester    54 mins             ███████████████████████░░   92.88 % 
+Unknown Project          4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  58 mins             █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -117,7 +120,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/limenitiz/limenitiz/master/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2023 00:36:01 UTC
+ Last Updated on 02/10/2023 00:36:22 UTC
 <!--END_SECTION:waka-readme-stats-total-->
 
 <!--START_SECTION:wakaReadmeTotal-->
