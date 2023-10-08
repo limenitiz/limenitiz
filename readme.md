@@ -78,7 +78,7 @@
 <!--START_SECTION:wakaReadmeTotal-->
 
 ```txt
-From: 06 November 2020 - To: 01 October 2023
+From: 06 November 2020 - To: 05 October 2023
 
 Total Time: 941 hrs 31 mins
 
