@@ -2,6 +2,7 @@
 <!-- https://www.vectorlogo.zone/ -->
 <!-- https://www.svgrepo.com/ -->
 
+<!--
 🔗 &nbsp;**Connect with me**
 &nbsp; <p align="left">
         &nbsp;&nbsp;
@@ -19,6 +20,8 @@
             https://t.me/limenitiz
         </span>
 </p>
+
+-->
 
 <!-- 
 ![Metrics](/github-metrics.svg)
@@ -71,9 +74,9 @@
     </a>
 </p>
 
--->
-
 <br>
+
+-->
 
 <!--START_SECTION:waka-readme-stats-total-->
 <!--END_SECTION:waka-readme-stats-total-->
