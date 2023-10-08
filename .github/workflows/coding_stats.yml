@@ -26,7 +26,7 @@ jobs:
   waka-readme-update-total:
     name: Update Readme with waka-readme (total)
     runs-on: ubuntu-latest
-    needs: waka-readme-stats-update
+    # needs: waka-readme-stats-update
     steps:
       - uses: athul/waka-readme@master
         with:
