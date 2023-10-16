@@ -84,15 +84,15 @@
 <!--START_SECTION:wakaReadmeTotal-->
 
 ```txt
-From: 06 November 2020 - To: 07 October 2023
+From: 06 November 2020 - To: 15 October 2023
 
-Total Time: 944 hrs 10 mins
+Total Time: 944 hrs 14 mins
 
-Java                  347 hrs 8 mins  ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░   36.77 %
+Java                  347 hrs 8 mins  ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░   36.76 %
 C++                   287 hrs 37 mins ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░   30.46 %
 HTML                  66 hrs          ▓▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
 Other                 43 hrs 5 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-Python                30 hrs 58 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+Python                31 hrs 2 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
 ```
 
 <!--END_SECTION:wakaReadmeTotal-->
