@@ -116,15 +116,13 @@ Text                  5 hrs 18 mins   ░░░░░░░░░░░░░░
 <!--START_SECTION:wakaReadmeMonth-->
 
 ```txt
-From: 15 September 2023 - To: 15 October 2023
+From: 22 September 2023 - To: 22 October 2023
 
-Total Time: 7 hrs 47 mins
+Total Time: 5 hrs 11 mins
 
-Python     7 hrs 35 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░   97.34 %
-Markdown   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-Kotlin     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-Assembly   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python     5 hrs 4 mins    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░   97.80 %
+Markdown   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Assembly   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:wakaReadmeMonth-->
