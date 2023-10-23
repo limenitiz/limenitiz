@@ -100,7 +100,7 @@ Python                31 hrs 2 mins   ▓░░░░░░░░░░░░░
 <!--START_SECTION:wakaReadmeYear-->
 
 ```txt
-From: 15 October 2022 - To: 15 October 2023
+From: 22 October 2022 - To: 22 October 2023
 
 Total Time: 338 hrs 46 mins
 
