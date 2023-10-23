@@ -130,11 +130,11 @@ Assembly   0 secs          ░░░░░░░░░░░░░░░░░�
 <!--START_SECTION:wakaReadmeWeek-->
 
 ```txt
-From: 08 October 2023 - To: 15 October 2023
+From: 15 October 2023 - To: 22 October 2023
 
-Total Time: 3 mins
+Total Time: 0 secs
 
-Python   3 mins          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:wakaReadmeWeek-->
