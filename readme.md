@@ -100,15 +100,15 @@ Python                31 hrs 39 mins  ▓░░░░░░░░░░░░░
 <!--START_SECTION:wakaReadmeYear-->
 
 ```txt
-From: 29 October 2022 - To: 29 October 2023
+From: 04 November 2022 - To: 04 November 2023
 
-Total Time: 331 hrs 55 mins
+Total Time: 326 hrs 8 mins
 
-Java                  232 hrs 31 mins ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░   70.05 %
-HTML                  26 hrs 58 mins  ▓▓░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
-Python                18 hrs 57 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
-XML                   17 hrs 14 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-Text                  5 hrs 18 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Java                  226 hrs 52 mins ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░   69.57 %
+HTML                  26 hrs 58 mins  ▓▓░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+Python                18 hrs 57 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+XML                   17 hrs 14 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Text                  5 hrs 18 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:wakaReadmeYear-->
