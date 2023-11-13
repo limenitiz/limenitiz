@@ -132,11 +132,13 @@ Kotlin       1 min           ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:wakaReadmeWeek-->
 
 ```txt
-From: 28 October 2023 - To: 04 November 2023
+From: 04 November 2023 - To: 11 November 2023
 
-Total Time: 3 mins
+Total Time: 7 hrs
 
-Other   3 mins          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   100.00 %
+Python   6 hrs 58 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   99.64 %
+Kotlin   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Git      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:wakaReadmeWeek-->
