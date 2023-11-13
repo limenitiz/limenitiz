@@ -116,12 +116,15 @@ Text                  5 hrs 18 mins   ░░░░░░░░░░░░░░
 <!--START_SECTION:wakaReadmeMonth-->
 
 ```txt
-From: 06 October 2023 - To: 05 November 2023
+From: 13 October 2023 - To: 12 November 2023
 
-Total Time: 44 mins
+Total Time: 9 hrs 3 mins
 
-Python   41 mins         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░   92.42 %
-Other    3 mins          ▓▓░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
+Python       8 hrs 53 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   98.21 %
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+C#           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Kotlin       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:wakaReadmeMonth-->
