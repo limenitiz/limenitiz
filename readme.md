@@ -132,13 +132,15 @@ Bash                  9 mins          ░░░░░░░░░░░░░░
 <!--START_SECTION:wakaReadmeWeek-->
 
 ```txt
-From: 04 November 2023 - To: 11 November 2023
+From: 05 November 2023 - To: 12 November 2023
 
-Total Time: 7 hrs
+Total Time: 8 hrs 19 mins
 
-Python   6 hrs 58 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   99.64 %
-Kotlin   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Git      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Python       8 hrs 12 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   98.73 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+C#           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Kotlin       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:wakaReadmeWeek-->
