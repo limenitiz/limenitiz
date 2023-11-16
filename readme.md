@@ -116,15 +116,15 @@ C#                    5 hrs 41 mins   ░░░░░░░░░░░░░░
 <!--START_SECTION:wakaReadmeMonth-->
 
 ```txt
-From: 13 October 2023 - To: 12 November 2023
+From: 16 October 2023 - To: 15 November 2023
 
-Total Time: 9 hrs 3 mins
+Total Time: 18 hrs 10 mins
 
-Python       8 hrs 53 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   98.21 %
-Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-C#           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Kotlin       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Python                10 hrs 34 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░   58.13 %
+C#                    5 hrs 41 mins   ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░   31.28 %
+TypeScript            53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+HTTP Request          42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+Bash                  9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:wakaReadmeMonth-->
