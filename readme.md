@@ -116,15 +116,15 @@ Text                  5 hrs 18 mins   ░░░░░░░░░░░░░░
 <!--START_SECTION:wakaReadmeMonth-->
 
 ```txt
-From: 16 October 2023 - To: 15 November 2023
+From: 27 October 2023 - To: 26 November 2023
 
-Total Time: 18 hrs 10 mins
+Total Time: 13 hrs 49 mins
 
-Python                10 hrs 34 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░   58.13 %
-C#                    5 hrs 41 mins   ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░   31.28 %
-TypeScript            53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-HTTP Request          42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-Bash                  9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Python           10 hrs 24 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░   75.29 %
+C#               3 hrs 12 mins   ▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░   23.20 %
+GitIgnore file   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Other            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Kotlin           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:wakaReadmeMonth-->
